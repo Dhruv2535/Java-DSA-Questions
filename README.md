@@ -1,2 +1,2 @@
 # Java-Questions-code
-# In this repo you will get Java basic + Advance(DSA) questions.
+# In this repo you will get Java basic + Advance(DSA) questions and Projects.
