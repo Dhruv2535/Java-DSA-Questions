@@ -16,6 +16,6 @@ public class Main
     }
     
 	public static void main(String[] args) {
-		solid_rhombous(5);
+		solid_rhombous(4);
 	}
 }
